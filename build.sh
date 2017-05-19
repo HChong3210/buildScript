@@ -74,8 +74,3 @@ fir p ${IPA_FILE_LOCATION} -T $2
 else
 echo "请填写fir-token上传"
 fi
-
-
-
-
-
